@@ -12,7 +12,7 @@ The Open Ruby Foundation is a nonprofit corporation dedicated to the development
 
 Today we launched our first project, the [Ruby Galaxy](https://rubygalaxy.io/) global Ruby meetup. On January 28th we'll be holding our first event and we would love to have you [come share your Ruby knowledge with us](https://github.com/openrubyfoundation/rubygalaxy). You'll be in good company, Matz will be joining us to deliver the first ever Ruby Galaxy keynote.
 
-![Rubynaut](https://rubygalaxy.io/assets/img/flat-rubified-astronaut-hacking.png){: .mx-auto.d-block :}
+![Rubynaut](/assets/img/flat-rubified-astronaut-hacking.png){: .mx-auto.d-block :}
 
 Hundreds of thousands of developers around the world have already discovered the joy of writing Ruby. It's a beautiful, expressive language designed by Matz to make developers happy, and that focus on the humans behind the code is a large part of what makes this community so special.
 
